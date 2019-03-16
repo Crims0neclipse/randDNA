@@ -1,0 +1,27 @@
+#include <iostream>
+#include <random> // Line 8 (review)
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int randDNA(eng1){
+	
+    random_device rd;
+    mt19937 eng1 rd();
+    
+    uniform_int_distribution <int> un (min, max);
+    
+		int min = ; , max= ;
+		
+		
+    
+    
+       
+      
+}
+
+int main(){
+	
+	
+	}
